@@ -1,0 +1,5 @@
+Total de letras: 75
+Total de letras minsculas: 71
+Total de dígitos pares: 5
+Total de signos de puntuacin: 6
+Total de espacios en blanco: 15
